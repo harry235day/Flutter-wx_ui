@@ -1,6 +1,6 @@
 # wxchat
 
-A new Flutter project.
+主要练习ui 布局 
 
 ## Getting Started
 
